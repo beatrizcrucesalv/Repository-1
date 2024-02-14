@@ -7,3 +7,7 @@ this is [a link to IE](https://www.ie.edu/)
 this is *italic* this is **bold**
 
 we are now developing a new feature 
+
+<<<<<<< conflict-branch
+we are now developing a future
+>>>>>> main 
